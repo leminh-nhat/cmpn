@@ -1,0 +1,1521 @@
+{
+  "Files": [
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\tutorgo.bundle.scp.css",
+      "PackagePath": "staticwebassets\\tutorgo.bundle.scp.css"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\LayoutAdmin\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\css\\style.css"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\LayoutAdmin\\assets\\css\\style.css.map",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\css\\style.css.map"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.eot",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.eot"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.ttf",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.ttf"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.woff",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.woff"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.woff2",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.woff2"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.eot",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.eot"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.ttf",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.ttf"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.woff",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.woff"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.woff2",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.woff2"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.eot",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.eot"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.ttf",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.ttf"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.woff",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.woff"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.woff2",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.woff2"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.eot",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.eot"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.ttf",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.ttf"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.woff",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.woff"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.woff2",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.woff2"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\LayoutAdmin\\assets\\images\\admin.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\admin.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\LayoutAdmin\\assets\\images\\dashboard\\circle.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\dashboard\\circle.png"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\LayoutAdmin\\assets\\images\\dashboard\\circle.svg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\dashboard\\circle.svg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\LayoutAdmin\\assets\\images\\dashboard\\img_1.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\dashboard\\img_1.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\LayoutAdmin\\assets\\images\\dashboard\\img_2.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\dashboard\\img_2.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\LayoutAdmin\\assets\\images\\dashboard\\img_3.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\dashboard\\img_3.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\LayoutAdmin\\assets\\images\\dashboard\\img_4.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\dashboard\\img_4.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\LayoutAdmin\\assets\\images\\faces-clipart\\pic-1.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces-clipart\\pic-1.png"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\LayoutAdmin\\assets\\images\\faces-clipart\\pic-2.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces-clipart\\pic-2.png"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\LayoutAdmin\\assets\\images\\faces-clipart\\pic-3.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces-clipart\\pic-3.png"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\LayoutAdmin\\assets\\images\\faces-clipart\\pic-4.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces-clipart\\pic-4.png"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face1.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face1.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face10.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face10.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face11.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face11.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face12.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face12.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face13.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face13.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face14.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face14.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face15.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face15.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face16.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face16.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face17.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face17.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face18.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face18.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face19.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face19.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face2.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face2.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face20.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face20.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face21.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face21.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face22.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face22.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face23.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face23.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face24.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face24.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face25.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face25.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face26.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face26.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face27.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face27.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face3.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face3.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face4.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face4.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face5.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face5.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face6.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face6.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face7.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face7.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face8.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face8.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face9.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face9.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\LayoutAdmin\\assets\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\favicon.ico"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\LayoutAdmin\\assets\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\favicon.png"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\LayoutAdmin\\assets\\images\\logo-mini.svg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\logo-mini.svg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\LayoutAdmin\\assets\\images\\logo.svg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\logo.svg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\LayoutAdmin\\assets\\images\\sprites\\blue.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\sprites\\blue.png"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\LayoutAdmin\\assets\\images\\sprites\\dark.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\sprites\\dark.png"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\LayoutAdmin\\assets\\images\\sprites\\flag.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\sprites\\flag.png"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\LayoutAdmin\\assets\\images\\sprites\\green.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\sprites\\green.png"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\LayoutAdmin\\assets\\images\\sprites\\jsgrid-icons.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\sprites\\jsgrid-icons.png"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\LayoutAdmin\\assets\\images\\sprites\\red.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\sprites\\red.png"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\LayoutAdmin\\assets\\images\\sprites\\yellow.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\sprites\\yellow.png"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\LayoutAdmin\\assets\\js\\chart.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\chart.js"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\LayoutAdmin\\assets\\js\\dashboard.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\dashboard.js"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\LayoutAdmin\\assets\\js\\file-upload.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\file-upload.js"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\LayoutAdmin\\assets\\js\\hoverable-collapse.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\hoverable-collapse.js"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\LayoutAdmin\\assets\\js\\jquery.cookie.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\jquery.cookie.js"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\LayoutAdmin\\assets\\js\\misc.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\misc.js"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\LayoutAdmin\\assets\\js\\off-canvas.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\off-canvas.js"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\LayoutAdmin\\assets\\js\\site.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\site.js"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\LayoutAdmin\\assets\\js\\todo.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\todo.js"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\LayoutAdmin\\assets\\js\\todolist.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\todolist.js"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\LayoutAdmin\\assets\\scss\\_dashboard.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_dashboard.scss"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\LayoutAdmin\\assets\\scss\\_demo.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_demo.scss"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\LayoutAdmin\\assets\\scss\\_fonts.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_fonts.scss"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\LayoutAdmin\\assets\\scss\\_footer.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_footer.scss"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\LayoutAdmin\\assets\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_functions.scss"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\LayoutAdmin\\assets\\scss\\_layouts.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_layouts.scss"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\LayoutAdmin\\assets\\scss\\_misc.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_misc.scss"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\LayoutAdmin\\assets\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\LayoutAdmin\\assets\\scss\\_reset.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_reset.scss"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\LayoutAdmin\\assets\\scss\\_sidebar.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_sidebar.scss"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\LayoutAdmin\\assets\\scss\\_typography.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_typography.scss"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\LayoutAdmin\\assets\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\LayoutAdmin\\assets\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_variables.scss"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\LayoutAdmin\\assets\\scss\\_vertical-wrapper.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_vertical-wrapper.scss"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\LayoutAdmin\\assets\\scss\\_widget-grid.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_widget-grid.scss"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_badges.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_badges.scss"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_bootstrap-progress.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_bootstrap-progress.scss"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_breadcrumbs.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_breadcrumbs.scss"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_buttons.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_buttons.scss"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_cards.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_cards.scss"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_checkbox-radio.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_checkbox-radio.scss"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_dropdown.scss"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_forms.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_forms.scss"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_icons.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_icons.scss"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_lists.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_lists.scss"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_preview.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_preview.scss"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_tables.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_tables.scss"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_todo-list.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_todo-list.scss"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\LayoutAdmin\\assets\\scss\\landing-screens\\_auth.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\landing-screens\\_auth.scss"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_animation.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_animation.scss"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_background.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_background.scss"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_badges.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_badges.scss"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_blockqoute.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_blockqoute.scss"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_breadcrumbs.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_breadcrumbs.scss"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_cards.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_cards.scss"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_misc.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_misc.scss"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_popovers.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_popovers.scss"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_text.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_text.scss"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_tooltips.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_tooltips.scss"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\LayoutAdmin\\assets\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\style.scss"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\LayoutAdmin\\assets\\vendors\\chart.js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\chart.js\\Chart.min.js"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\LayoutAdmin\\assets\\vendors\\css\\vendor.bundle.base.css",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\css\\vendor.bundle.base.css"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\LayoutAdmin\\assets\\vendors\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\LayoutAdmin\\assets\\vendors\\js\\vendor.bundle.base.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\js\\vendor.bundle.base.js"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\LayoutAdmin\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\LayoutAdmin\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css.map",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css.map"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\LayoutAdmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\LayoutAdmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\LayoutAdmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\LayoutAdmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\css\\animate.css",
+      "PackagePath": "staticwebassets\\assets\\css\\animate.css"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\css\\elegent-icons.css",
+      "PackagePath": "staticwebassets\\assets\\css\\elegent-icons.css"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\css\\font-awesome-pro.css",
+      "PackagePath": "staticwebassets\\assets\\css\\font-awesome-pro.css"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\css\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\assets\\css\\magnific-popup.css"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\css\\main.css",
+      "PackagePath": "staticwebassets\\assets\\css\\main.css"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\css\\meanmenu.css",
+      "PackagePath": "staticwebassets\\assets\\css\\meanmenu.css"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\css\\nice-select.css",
+      "PackagePath": "staticwebassets\\assets\\css\\nice-select.css"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\css\\slick.css",
+      "PackagePath": "staticwebassets\\assets\\css\\slick.css"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\css\\spacing.css",
+      "PackagePath": "staticwebassets\\assets\\css\\spacing.css"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\fonts\\ElegantIcons.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\ElegantIcons.eot"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\fonts\\ElegantIcons.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\ElegantIcons.svg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\fonts\\ElegantIcons.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\ElegantIcons.ttf"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\fonts\\ElegantIcons.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\ElegantIcons.woff"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\fonts\\ElegantIconsd41d.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\ElegantIconsd41d.eot"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\fonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\fonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\fonts\\fa-duotone-900.html",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-duotone-900.html"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\fonts\\fa-duotone-901.html",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-duotone-901.html"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\fonts\\fa-light-300.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-light-300.ttf"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\fonts\\fa-light-300.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-light-300.woff2"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\fonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\fonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\fonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\fonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\fonts\\fa-thin-100.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-thin-100.ttf"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\fonts\\fa-thin-100.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-thin-100.woff2"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\fonts\\fa-v4compatibility.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-v4compatibility.ttf"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\fonts\\fa-v4compatibility.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-v4compatibility.woff2"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\img\\about\\about-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\about-1.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\img\\about\\about-2.1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\about-2.1.png"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\img\\about\\about-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\about-2.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\img\\about\\about-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\about-3.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\img\\bg\\count-bg-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\bg\\count-bg-2.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\img\\bg\\counter-bg-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\bg\\counter-bg-1.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\img\\bg\\cta-shape-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\bg\\cta-shape-2.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\img\\bg\\newsletter-bg-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\bg\\newsletter-bg-1.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\img\\blog\\blog-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog-1.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\img\\blog\\blog-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog-2.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\img\\blog\\blog-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog-3.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\img\\blog\\blog-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog-4.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\img\\blog\\blog-big-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog-big-1.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\img\\blog\\blog-big-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog-big-2.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\img\\blog\\blog-big-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog-big-3.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\img\\brand\\brand-1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\brand\\brand-1.png"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\img\\brand\\brand-2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\brand\\brand-2.png"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\img\\brand\\brand-3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\brand\\brand-3.png"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\img\\brand\\brand-4.png",
+      "PackagePath": "staticwebassets\\assets\\img\\brand\\brand-4.png"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\img\\brand\\brand-5.png",
+      "PackagePath": "staticwebassets\\assets\\img\\brand\\brand-5.png"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\img\\brand\\brand-6.png",
+      "PackagePath": "staticwebassets\\assets\\img\\brand\\brand-6.png"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\img\\breadcrumb\\breadcrumb-bg-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\breadcrumb\\breadcrumb-bg-2.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\img\\breadcrumb\\breadcrumb-bg-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\breadcrumb\\breadcrumb-bg-3.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\img\\breadcrumb\\breadcrumb-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\breadcrumb\\breadcrumb-bg.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\img\\bu1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\bu1.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\img\\bu2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\bu2.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\img\\bu3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\bu3.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\img\\bu4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\bu4.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\img\\bu5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\bu5.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\img\\contact\\contact-shape-1.html",
+      "PackagePath": "staticwebassets\\assets\\img\\contact\\contact-shape-1.html"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\img\\contact\\contact-shape-2.html",
+      "PackagePath": "staticwebassets\\assets\\img\\contact\\contact-shape-2.html"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\img\\contact\\contact-shape-3.html",
+      "PackagePath": "staticwebassets\\assets\\img\\contact\\contact-shape-3.html"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\img\\counter\\countdown-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\counter\\countdown-bg.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\img\\courses\\avata\\course-avata-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\courses\\avata\\course-avata-1.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\img\\courses\\avata\\course-avata-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\courses\\avata\\course-avata-2.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\img\\courses\\avata\\course-avata-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\courses\\avata\\course-avata-3.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\img\\courses\\avata\\course-avata-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\courses\\avata\\course-avata-4.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\img\\courses\\avata\\course-avata-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\courses\\avata\\course-avata-5.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\img\\courses\\avata\\course-avata-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\courses\\avata\\course-avata-6.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\img\\courses\\course-page.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\courses\\course-page.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\img\\courses\\courses-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\courses\\courses-1.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\img\\courses\\courses-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\courses\\courses-2.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\img\\courses\\courses-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\courses\\courses-3.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\img\\courses\\courses-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\courses\\courses-4.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\img\\courses\\courses-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\courses\\courses-5.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\img\\courses\\courses-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\courses\\courses-6.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\img\\courses\\courses-list-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\courses\\courses-list-1.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\img\\courses\\courses-list-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\courses\\courses-list-2.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\img\\courses\\courses-list-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\courses\\courses-list-3.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\img\\courses\\courses-list-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\courses\\courses-list-4.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\img\\courses\\courses-list-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\courses\\courses-list-5.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\img\\de1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\de1.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\img\\de2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\de2.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\img\\de3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\de3.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\img\\de4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\de4.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\img\\de5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\de5.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\img\\event\\event-detials.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\event\\event-detials.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\img\\event\\event-thumb-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\event\\event-thumb-1.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\img\\event\\event-thumb-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\event\\event-thumb-2.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\img\\event\\event-thumb-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\event\\event-thumb-3.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\img\\event\\event-thumb-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\event\\event-thumb-4.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\img\\hero\\hero-img-1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\hero\\hero-img-1.png"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\img\\icons\\404.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\404.png"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\img\\icons\\about-shapes.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\about-shapes.png"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\img\\icons\\about-tag.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\about-tag.png"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\img\\icons\\bag-icon.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\bag-icon.png"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\img\\icons\\book-blue.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\book-blue.png"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\img\\icons\\book-shape.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\book-shape.png"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\img\\icons\\cal-icon.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\cal-icon.png"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\img\\icons\\circle-shape.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\circle-shape.png"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\img\\icons\\code-cions.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\code-cions.png"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\img\\icons\\cross-out.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\cross-out.png"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\img\\icons\\cta-img-2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\cta-img-2.png"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\img\\icons\\design-icon.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\design-icon.png"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\img\\icons\\doller-icon.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\doller-icon.png"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\img\\icons\\dots-shapes-2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\dots-shapes-2.png"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\img\\icons\\dots-shapes.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\dots-shapes.png"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\img\\icons\\event-circle.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\event-circle.png"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\img\\icons\\event-line-1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\event-line-1.png"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\img\\icons\\line-shape.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\line-shape.png"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\img\\icons\\lines-shape.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\lines-shape.png"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\img\\icons\\man-cions.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\man-cions.png"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\img\\icons\\music-icons.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\music-icons.png"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\img\\icons\\payment-1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\payment-1.png"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\img\\icons\\pen-icon.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\pen-icon.png"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\img\\icons\\reed-dot-shapes.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\reed-dot-shapes.png"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\img\\icons\\ring-2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\ring-2.png"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\img\\icons\\ring-cta-1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\ring-cta-1.png"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\img\\icons\\ring-cta-2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\ring-cta-2.png"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\img\\icons\\ring-shape.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\ring-shape.png"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\img\\icons\\role-shape-2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\role-shape-2.png"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\img\\icons\\role-shape.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\role-shape.png"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\img\\icons\\theme-circle.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\theme-circle.png"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\img\\logo\\favicon.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logo\\favicon.png"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\img\\logo\\logo.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logo\\logo.png"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\img\\logo\\white-logo.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logo\\white-logo.png"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\img\\ma1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\ma1.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\img\\ma2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\ma2.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\img\\ma3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\ma3.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\img\\ma4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\ma4.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\img\\ma5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\ma5.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\img\\pr1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\pr1.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\img\\pr2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\pr2.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\img\\pr3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\pr3.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\img\\pr4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\pr4.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\img\\pr5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\pr5.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\img\\shape\\yellow-bg.html",
+      "PackagePath": "staticwebassets\\assets\\img\\shape\\yellow-bg.html"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\img\\slider\\slider-2.1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\slider\\slider-2.1.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\img\\slider\\slider-2.2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\slider\\slider-2.2.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\img\\slider\\slider-2.3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\slider\\slider-2.3.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\img\\slider\\slider-3.1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\slider\\slider-3.1.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\img\\slider\\slider-3.2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\slider\\slider-3.2.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\img\\slider\\slider-3.3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\slider\\slider-3.3.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\img\\team\\teacer-details-1_tmp19490.html",
+      "PackagePath": "staticwebassets\\assets\\img\\team\\teacer-details-1_tmp19490.html"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\img\\team\\team-1.1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\team\\team-1.1.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\img\\team\\team-1.2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\team\\team-1.2.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\img\\team\\team-1.3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\team\\team-1.3.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\img\\team\\team-1.4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\team\\team-1.4.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\img\\team\\team-1.5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\team\\team-1.5.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\img\\team\\team-1.6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\team\\team-1.6.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\img\\team\\team-2.1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\team\\team-2.1.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\img\\team\\team-2.2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\team\\team-2.2.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\img\\team\\team-2.3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\team\\team-2.3.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\img\\team\\team-2.4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\team\\team-2.4.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\img\\team\\team-2.5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\team\\team-2.5.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\img\\team\\team-2.6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\team\\team-2.6.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\img\\testimonial\\avata-lg-2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\testimonial\\avata-lg-2.png"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\img\\testimonial\\avata-lg-3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\testimonial\\avata-lg-3.png"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\img\\testimonial\\avata-lg-4.png",
+      "PackagePath": "staticwebassets\\assets\\img\\testimonial\\avata-lg-4.png"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\img\\testimonial\\avata-lg-5.png",
+      "PackagePath": "staticwebassets\\assets\\img\\testimonial\\avata-lg-5.png"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\img\\testimonial\\event-avata-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\testimonial\\event-avata-1.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\img\\testimonial\\event-avata-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\testimonial\\event-avata-2.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\img\\testimonial\\event-avata-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\testimonial\\event-avata-3.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\img\\testimonial\\event-avata-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\testimonial\\event-avata-4.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\img\\testimonial\\testimonial-thumb-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\testimonial\\testimonial-thumb-2.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\img\\testimonial\\testimonial-thumb-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\testimonial\\testimonial-thumb-3.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\img\\testimonial\\testimonial-thumb-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\testimonial\\testimonial-thumb-4.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\img\\testimonial\\testimonial-thumb.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\testimonial\\testimonial-thumb.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\img\\testimonial\\tp-testi-2.1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\testimonial\\tp-testi-2.1.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\img\\testimonial\\tp-testi-2.2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\testimonial\\tp-testi-2.2.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\img\\testimonial\\tp-testi-2.3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\testimonial\\tp-testi-2.3.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\js\\ajax-form.js",
+      "PackagePath": "staticwebassets\\assets\\js\\ajax-form.js"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\js\\bootstrap-bundle.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap-bundle.js"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\js\\countdown.js",
+      "PackagePath": "staticwebassets\\assets\\js\\countdown.js"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\js\\counterup.js",
+      "PackagePath": "staticwebassets\\assets\\js\\counterup.js"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\js\\imagesloaded-pkgd.js",
+      "PackagePath": "staticwebassets\\assets\\js\\imagesloaded-pkgd.js"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\js\\isotope-pkgd.js",
+      "PackagePath": "staticwebassets\\assets\\js\\isotope-pkgd.js"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\js\\magnific-popup.js",
+      "PackagePath": "staticwebassets\\assets\\js\\magnific-popup.js"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\assets\\js\\main.js"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\js\\meanmenu.js",
+      "PackagePath": "staticwebassets\\assets\\js\\meanmenu.js"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\js\\nice-select.js",
+      "PackagePath": "staticwebassets\\assets\\js\\nice-select.js"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\js\\parallax.js",
+      "PackagePath": "staticwebassets\\assets\\js\\parallax.js"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\js\\slick.js",
+      "PackagePath": "staticwebassets\\assets\\js\\slick.js"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\js\\vendor\\jquery.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\jquery.js"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\js\\vendor\\waypoints.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\waypoints.js"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\assets\\js\\wow.js",
+      "PackagePath": "staticwebassets\\assets\\js\\wow.js"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\Tutorgo\\tutorgo\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.tutorgo.props",
+      "PackagePath": "build\\tutorgo.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.tutorgo.props",
+      "PackagePath": "buildMultiTargeting\\tutorgo.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.tutorgo.props",
+      "PackagePath": "buildTransitive\\tutorgo.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.tutorgo.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

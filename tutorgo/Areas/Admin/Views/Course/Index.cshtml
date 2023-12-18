@@ -1,0 +1,46 @@
+﻿@model IEnumerable<CourseModel>
+@{
+    ViewData["Title"] = "Course Listed";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+<style>
+    .add-course-button {
+        margin-bottom: 20px;
+    }
+</style>
+<div class="col-lg-12 grid-margin stretch-card">
+    <div class="card">
+        <div class="card-body">
+            <h4 class="card-title">List Course</h4>
+            <a class="btn btn-block btn-lg btn-gradient-info mt-4 add-course-button" asp-area="Admin" asp-action="Create" asp-controller="Course">+ Add Course</a>
+            <table class="table table-bordered">
+                <thead>
+                    <tr>
+                        <th> # </th>
+                        <th> Category </th>
+                        <th> Image </th>
+                        <th> Name </th>
+                        <th> Price </th>
+                        <th> Course manage </th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            <td> @item.Id </td>
+                            <td> @item.Category.Name </td>
+                            <td><img src="@Url.Content("~/assets/img/" + @item.Image)" width="400"></td>
+                            <td> @item.Name </td>
+                            <td> $ @item.Price </td>
+                            <td>
+                                <a class="btn btn-warning btn-sm btn-gradient-warning" asp-action="Edit" asp-controller="Course" asp-route-Id="@item.Id">Edit</a>
+                                <a class="btn btn-warning btn-sm btn-gradient-danger" asp-action="Delete" asp-controller="Course" asp-route-Id="@item.Id">Delete</a>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>

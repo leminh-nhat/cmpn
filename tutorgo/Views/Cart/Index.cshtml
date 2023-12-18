@@ -1,0 +1,95 @@
+﻿@using tutorgo.Models.ViewModels
+@model CartItemViewModel
+
+<!-- breadcrumb area start -->
+<div class="breadcrumb__area include-bg pt-200 pb-150 breadcrumb__overlay"
+     data-background="assets/img/breadcrumb/breadcrumb-bg.jpg">
+    <div class="container">
+        <div class="row">
+            <div class="col-xxl-12">
+                <div class="breadcrumb__content p-relative z-index-1">
+                    <h3 class="breadcrumb__title">Cart</h3>
+                    <div class="breadcrumb__list">
+                        <span><a href="#">Home</a></span>
+                        <span class="dvdr"><i class="fa-regular fa-angle-right"></i></span>
+                        <span>cart</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- breadcrumb area end -->
+<!-- Cart Area Strat-->
+<section class="cart-area pt-120 pb-120">
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <form action="#">
+                    <div class="table-content table-responsive">
+                        <table class="table">
+                            <thead>
+                                <tr>
+                                    <th class="product-thumbnail">Images</th>
+                                    <th class="cart-product-name">Course</th>
+                                    <th class="product-price">Unit Price</th>
+                                    <th class="product-subtotal">Total</th>
+                                    <th class="product-remove">Remove</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                @if (Model.CartItems.Count > 0)
+                                {
+                                    foreach (var item in Model.CartItems)
+                                    {
+                                        <tr>
+                                            <td class="product-thumbnail"><a asp-action="Details" asp-controller="Course"><img src="@Url.Content("~/assets/img/" + @item.Image)" alt=""></a></td>
+                                            <td class="product-name"><a asp-action="Details" asp-controller="Course">@item.CourseName</a></td>
+                                            <td class="product-price"><span class="amount">$@item.Price</span></td>
+                                            <td class="product-subtotal"><span class="amount">$@item.Price</span></td>
+                                            <td class="product-remove"><a asp-controller="Cart" asp-action="Remove" asp-route-Id="@item.CourseId"><i class="fa fa-times"></i></a></td>
+                                        </tr>
+                                    }
+                                }
+                                else
+                                {
+                                    <tr>
+                                        <td colspan="6"><h4>Your Cart is Empty</h4></td>
+                                    </tr>
+                                }
+                            </tbody>
+                        </table>
+                    </div>
+                    <div class="row">
+                        <div class="col-12">
+                            <div class="coupon-all">
+                                <div class="coupon">
+                                    <input id="coupon_code" class="input-text" name="coupon_code" value=""
+                                           placeholder="Coupon code" type="text">
+                                    <button class="tp-btn br-0" name="apply_coupon" type="submit">
+                                        <span>Apply Coupon</span>
+                                    </button>
+                                </div>
+                                <div class="coupon2">
+                                    <button class="tp-btn br-0" name="update_cart" type="submit"><span>Update cart </span></button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row justify-content-end">
+                        <div class="col-md-5 ">
+                            <div class="cart-page-total">
+                                <h2>Cart totals</h2>
+                                <ul class="mb-20">
+                                    <li>Total <span>$@Model.GrandTotal.ToString()</span></li>
+                                </ul>
+                                <a class="tp-btn br-0" href="checkout.html"><span>Proceed to checkout</span> <div class="transition"></div></a>
+                            </div>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- Cart Area End-->

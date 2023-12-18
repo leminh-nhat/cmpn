@@ -1,0 +1,66 @@
+﻿@model CourseModel
+@{
+    ViewData["Title"] = "Create Course";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+<div class="col-12 grid-margin stretch-card">
+    <div class="card">
+        <div class="card-body">
+            <h4 class="card-title">Create course</h4>
+            <form asp-action="Create" enctype="multipart/form-data">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <div class="form-group">
+                    <label>Category</label>
+                    <select asp-for="CategoryId" class="form-control" asp-items="ViewBag.Categories">
+                        <option>--Choose a category--</option>
+                    </select>
+                    <span asp-validation-for="CategoryId" class="text-danger" />
+                </div>
+                <div class="form-group">
+                    <label>Name</label>
+                    <input asp-for="Name" class="form-control" placeholder="Name">
+                    <span asp-validation-for="Name" class="text-danger" />
+                </div>
+                <div class="form-group">
+                    <label>Image</label>
+                    <input asp-for="ImageUpload" class="form-control" />
+                    <span asp-validation-for="ImageUpload" class="text-danger" />
+                    <img id="imgpreview" class="pt-2" />
+                </div>
+                <div class="form-group">
+                    <label>Description</label>
+                    <textarea asp-for="Description" class="form-control" rows="4"></textarea>
+                    <span asp-validation-for="Description" class="text-danger" />
+                </div>
+                <div class="form-group">
+                    <label>Price</label>
+                    <div class="input-group">
+                        <div class="input-group-prepend">
+                            <span class="input-group-text bg-gradient-primary text-white">$</span>
+                        </div>
+                        <input asp-for="Price" class="form-control" aria-label="Amount (to the nearest dollar)">
+                        <div class="input-group-append">
+                            <span class="input-group-text">.00</span>
+                        </div>
+                    </div>
+                </div>
+                <button class="btn btn-gradient-info me-2">Create</button>
+                <button asp-action="Index" asp-controller="Course" class="btn btn-dark">Cancel</button>
+            </form>
+        </div>
+    </div>
+</div>
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+    <script src="https://cdn.ckeditor.com/4.22.1/standard/ckeditor.js"></script>
+    <script>
+        $("#ImageUpload").change(function(){
+            readURL(this);
+        })
+    </script>
+    <script>
+        CKEDITOR.replace("Description");
+    </script>
+}

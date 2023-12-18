@@ -1,0 +1,295 @@
+﻿<!doctype html>
+<html class="no-js" lang="zxx">
+
+<style>
+    .cart-icon-wrapper {
+        position: relative;
+        margin-right: 20px; /* Khoảng cách giữa icon và nút login */
+    }
+
+    .cart-icon-wrapper a i {
+        font-size: 20px; /* Kích thước của icon */
+        color: white;   /* Màu của icon */
+    }
+
+    .cart-item-count {
+    color: #fff;
+    background-color: blue;
+    border-radius:50%;
+    padding: 0 5px;
+    position:relative;
+    left:-8px;
+    top:-10px;
+    opacity:0.9;
+    }
+
+    .user-greeting {
+    color: white; /
+    font-weight: bold; 
+    text-decoration: none; 
+    margin-right: 20px; 
+    }
+}
+</style>
+<!-- Mirrored from data.themeim.com/html/tutorgo/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 30 Nov 2023 02:20:23 GMT -->
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title>Tutorgo - Online Learning and Education HTML Template</title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Place favicon.ico in the root directory -->
+    <link rel="shortcut icon" type="image/x-icon" href="assets/img/logo/favicon.png">
+
+    <!-- CSS here  -->
+    <link rel="stylesheet" type="text/css" href="@Url.Content("~/assets/css/bootstrap.css")" media="screen" />
+    <link rel="stylesheet" type="text/css" href="@Url.Content("~/assets/css/meanmenu.css")" media="screen" />
+    <link rel="stylesheet" type="text/css" href="@Url.Content("~/assets/css/animate.css")" media="screen" />
+    <link rel="stylesheet" type="text/css" href="@Url.Content("~/assets/css/slick.css")" media="screen" />
+    <link rel="stylesheet" type="text/css" href="@Url.Content("~/assets/css/magnific-popup.css")" media="screen" />
+    <link rel="stylesheet" type="text/css" href="@Url.Content("~/assets/css/nice-select.css")" media="screen" />
+    <link rel="stylesheet" type="text/css" href="@Url.Content("~/assets/css/font-awesome-pro.css")" media="screen" />
+    <link rel="stylesheet" type="text/css" href="@Url.Content("~/assets/css/elegent-icons.css")" media="screen" />
+    <link rel="stylesheet" type="text/css" href="@Url.Content("~/assets/css/spacing.css")" media="screen" />
+    <link rel="stylesheet" type="text/css" href="@Url.Content("~/assets/css/main.css")" media="screen" />
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/css/toastr.min.css" media="screen" />
+
+    @* <link rel="stylesheet" href="assets/css/bootstrap.css">
+    <link rel="stylesheet" href="assets/css/meanmenu.css">
+    <link rel="stylesheet" href="assets/css/animate.css">
+    <link rel="stylesheet" href="assets/css/slick.css">
+    <link rel="stylesheet" href="assets/css/magnific-popup.css">
+    <link rel="stylesheet" href="assets/css/nice-select.css">
+    <link rel="stylesheet" href="assets/css/font-awesome-pro.css">
+    <link rel="stylesheet" href="assets/css/elegent-icons.css">
+    <link rel="stylesheet" href="assets/css/spacing.css">
+    <link rel="stylesheet" href="assets/css/main.css"> *@
+    <!-- css end  here-->
+</head>
+
+<body>
+    <!--[if lte IE 9]>
+       <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
+       <![endif]-->
+    <!-- back to top start -->
+    <button class="tp-backtotop">
+        <span><i class="fal fa-angle-double-up"></i></span>
+    </button>
+    <!-- back to top end -->
+    <!-- header area start -->
+    <header>
+        <div class="tp-header__area tp-header__transparent">
+            <div class="tp-header__main" id="header-sticky">
+                <div class="container">
+                    <div class="row align-items-center">
+                        <div class="col-xxl-2 col-xl-2 col-lg-2 col-md-6 col-6">
+                            <div class="logo has-border">
+                                <a href="index.html">
+                                    @* <img src="assets/img/logo/white-logo.png" alt="logo"> *@
+                                    <img src="@Url.Content("~/assets/img/logo/white-logo.png")" alt="logo">
+                                </a>
+                            </div>
+                        </div>
+                        <div class="col-xxl-6 col-xl-6 col-lg-7 d-none d-lg-block">
+                            <div class="main-menu">
+                                <nav id="mobile-menu">
+                                    <ul>
+                                        <li><a asp-action="Index" asp-controller="Home">Home</a></li>
+                                        <li><a href="about-us.html">About</a></li>
+                                        <li><a asp-action="Index" asp-controller="Course">Courses</a> </li>
+                                        <li class="has-dropdown">
+                                            <a href="#">Pages</a>
+                                            <ul class="submenu">
+                                                <li><a href="event.html">Events</a></li>
+                                                <li><a href="event-details.html">Event Details</a></li>
+                                                <li><a href="instructor.html">Instructor V1</a></li>
+                                                <li><a href="instructor-2.html">Instructor V2</a></li>
+                                                <li><a href="instructor-details.html">Instructor Details</a></li>
+                                                <li><a href="wishlist.html">Wishlist</a></li>
+                                                <li><a href="sign-in.html">Sign In</a></li>
+                                                <li><a href="sign-up.html">Sign Up</a></li>
+                                                <li><a href="faq.html">Faq</a></li>
+                                                <li><a href="404.html">404</a></li>
+                                            </ul>
+                                        </li>
+                                        <li class="has-dropdown">
+                                            <a href="blog.html">Blog</a>
+                                            <ul class="submenu">
+                                                <li><a href="blog.html">Blog</a></li>
+                                                <li><a href="blog-details.html">Blog Details</a></li>
+                                            </ul>
+                                        </li>
+                                        <li>
+                                            <a href="contact.html">Contact</a>
+                                        </li>
+                                    </ul>
+                                </nav>
+                            </div>
+                        </div>
+                        <div class="col-xxl-4 col-xl-4 col-lg-3 col-md-6 col-6">
+                            <div class="tp-header__main-right d-flex justify-content-end align-items-center pl-30">
+                                <div class="header-acttion-btns d-flex align-items-center d-none d-md-flex">
+                                    @if(User.Identity?.IsAuthenticated ?? false)
+                                    {
+                                        <span class="cart-icon-wrapper">
+                                            <a asp-action="Index" asp-controller="Cart" class="cart-icon-link"><i class="far fa-shopping-cart"></i></a>
+                                        </span>
+                                        <a class="user-greeting"><i class="fal fa-user"></i>     Hi, @User.Identity.Name</a>
+                                        <a asp-action="Logout" asp-controller="Account" class="tp-btn br0">
+                                            <span>Logout</span>
+                                            <div class="transition"></div>
+                                        </a>
+                                    }
+                                    else
+                                    {
+                                        <a asp-action="Login" asp-controller="Account" class="tp-btn br-0">
+                                            <span>Login</span>
+                                            <div class="transition"></div>
+                                        </a>
+                                    }
+                                </div>
+                                <div class="tp-header__hamburger ml-50 d-lg-none">
+                                    <button class="hamburger-btn offcanvas-open-btn">
+                                        <span></span>
+                                        <span></span>
+                                        <span></span>
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+                        @Html.Partial("_NotificationPartial")
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+    <!-- header area end -->
+
+
+
+    <main>
+        
+        @RenderBody()
+
+
+    </main>
+
+    <!-- footer area start -->
+    <footer>
+        <div class="footer__area grey-bg">
+            <div class="container">
+                <div class="footer__top ">
+                    <div class="row">
+                        <div class="col-xxl-3 col-xl-3 col-lg-3 col-md-6">
+                            <div class="footer__widget mb-50 footer-col-1">
+                                <div class="footer__widget-logo mb-30">
+                                    <a href="index.html"><img src="assets/img/logo/logo.png" alt=""></a>
+                                </div>
+                                <div class="footer__widget-content">
+                                    <p>
+                                        Aut cum mollitia reprehenderit.
+                                        Eos cumque dicta adipisci amet
+                                        architecto culpa.
+                                    </p>
+                                    <div class="footer__social">
+                                        <span><a href="#"><i class="fab fa-facebook-f"></i></a></span>
+                                        <span><a href="#" class="yt"><i class="fab fa-youtube"></i></a></span>
+                                        <span><a href="#" class="tw"><i class="fab fa-twitter"></i></a></span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-xxl-2 col-xl-2 col-lg-3 col-6">
+                            <div class="footer__widget mb-50 footer-col-2">
+                                <h3 class="footer__widget-title">Information</h3>
+                                <div class="footer__widget-content">
+                                    <ul>
+                                        <li><a href="#">About Us</a></li>
+                                        <li><a href="#">Careers</a></li>
+                                        <li><a href="#">Customer</a></li>
+                                        <li><a href="#">Privacy</a></li>
+                                        <li><a href="#">Service</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-xxl-3 col-xl-3 col-lg-3 col-6">
+                            <div class="footer__widget mb-50 footer-col-3">
+                                <h3 class="footer__widget-title">Courses</h3>
+                                <div class="footer__widget-content">
+                                    <ul>
+                                        <li><a href="#">Masters Degree</a></li>
+                                        <li><a href="#">Post GraduateU</a></li>
+                                        <li><a href="#">Ndergraduate</a></li>
+                                        <li><a href="#">Engineering</a></li>
+                                        <li><a href="#">Ph.D Degree</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-xxl-4 col-xl-4 col-lg-3 col-md-6">
+                            <div class="footer__widget mb-50 footer-col-4">
+                                <h3 class="footer__widget-title">Sign Up for Our Newsletter</h3>
+                                <div class="footer__widget-content">
+                                    <div class="footer__subscribe">
+                                        <p>
+                                            Receive weekly newsletter with educational,
+                                            popular books and much more!
+                                        </p>
+                                        <form action="#">
+                                            <div class="footer__subscribe-box">
+                                                <div class="footer__subscribe-input">
+                                                    <input type="email" placeholder="Email address">
+                                                </div>
+                                                <button class="footer-sub-btn" type="submit">Subscribe</button>
+                                            </div>
+                                        </form>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="footer__bottom">
+                    <div class="row">
+                        <div class="col-12">
+                            <div class="footer__copyright text-center">
+                                <p>
+                                    © 2023 Tutorgo, All Rights Reserved. Design By <a href="https://themeforest.net/user/themeim/portfolio" target="_blank">ThemeIM</a>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <!-- footer area end -->
+    <!-- JS here -->
+
+    <script data-cfasync="false" src="../../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
+    <script src="@Url.Content("~/assets/js/vendor/jquery.js")"></script>
+    <script src="@Url.Content("~/assets/js/vendor/waypoints.js")"></script>
+    <script src="@Url.Content("~/assets/js/bootstrap-bundle.js")"></script>
+    <script src="@Url.Content("~/assets/js/meanmenu.js")"></script>
+    <script src="@Url.Content("~/assets/js/slick.js")"></script>
+    <script src="@Url.Content("~/assets/js/magnific-popup.js")"></script>
+    <script src="@Url.Content("~/assets/js/parallax.js")"></script>
+    <script src="@Url.Content("~/assets/js/nice-select.js")"></script>
+    <script src="@Url.Content("~/assets/js/counterup.js")"></script>
+    <script src="@Url.Content("~/assets/js/wow.js")"></script>
+    <script src="@Url.Content("~/assets/js/isotope-pkgd.js")"></script>
+    <script src="@Url.Content("~/assets/js/imagesloaded-pkgd.js")"></script>
+    <script src="@Url.Content("~/assets/js/ajax-form.js")"></script>
+    <script src="@Url.Content("~/assets/js/countdown.js")"></script>
+    <script src="@Url.Content("~/assets/js/main.js")"></script>
+    @await RenderSectionAsync("Scripts",required:false)
+</body>
+
+
+<!-- Mirrored from data.themeim.com/html/tutorgo/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 30 Nov 2023 02:21:00 GMT -->
+
+</html>
